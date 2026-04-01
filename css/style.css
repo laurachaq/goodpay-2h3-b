@@ -35,4 +35,18 @@ h2, p{
     background-color: #009929;
     padding: 5px;
     margin: 0;
-} 
+}
+.mySlides{
+    display: none;
+}
+.w3-left, .w3-right, .w3-badge{
+    cursor: pointer;
+}
+.w3-badge{
+    height: 13px; 
+    width: 13px;
+    padding: 0;
+}
+.banner{
+    max-width: 1090px;
+}
